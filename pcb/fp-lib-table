@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pid-cafe)(type KiCad)(uri ${KIPRJMOD}/pid-cafe.pretty)(options "")(descr ""))
+)
