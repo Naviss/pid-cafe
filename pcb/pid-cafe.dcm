@@ -1,3 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 521384-2
+D 2 x 1 Male Faston Connector 0.250" TE Connectivity AMP
+$ENDCMP
+#
+$CMP BAC05S12DC
+D Murata AC/DC 5W TH 12VAC/DC 5W TH 5VAC/DC 5W TH 5V
+K Murata Power Solutions Inc.
+$ENDCMP
+#
 #End Doc Library
